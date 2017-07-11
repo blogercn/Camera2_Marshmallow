@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-ex-camera2-portability_intermediates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/libs/android-ex-camera2-portability_intermediates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\src\main\libs\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_605912d1a81b0db8487d4b5342fd6de3920cc63f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\src\main\libs\xmp_toolkit_intermediates.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42c65dc75fa32c3a35d4186ed38b2961baba47b9">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\xmp_toolkit_intermediates_e2ad6b69e890c221927f6c23445a3ab2e5b9aca8.jar" />
+    </item>
+    <item
+        jar="D:\eclipse-standard-luna-R-win32\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_2023d7fce8660f8956198221dcfee7a39debd8b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\src\main\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\glide-3.7.0_93f5582d7f3960bab97de6f10abf709d7f032f34.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09d2f44a44d3d2cbae6da115ee2d4a8fc8e12783">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.0.0-alpha2_bf24cdb7b5616375a515d96dea21ba6935672131.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_5fbe78a065d070ecabd65978e5d6301fa83888b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\src\main\libs\jsr305-maven-plugin-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54fad7cc6df7944ea6b2f42cff3e56860648b9d">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\jsr305-maven-plugin-1.2_9133ff13c77005b1ee5cd57d87639dd07480c240.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_e4f838bfe8a7f38d68708dbcd3148aac208c0cdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\src\main\libs\android-ex-camera2-portability_intermediates.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="81012d8f20f664859238f07c5b4b971e354ceefc">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\android-ex-camera2-portability_intermediates_270c14b0e0a82f4e5fdc9611c000c8139fae3961.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\16.0.1\5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5\guava-16.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\guava-16.0.1_ef91f1ee729d40e3194dca1b6c453c7c0dcc8fca.jar" />
+    </item>
+    <item
+        jar="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="714f2c40032949ccd750f4d5511d56bdfc011d4c">
+        <dex dex="C:\Users\jiazhiguo\Downloads\material-camera-master\Camera2_Marshmallow\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_7ee6c75cdc6fe2e6fa70fa54ad1668e2084c6088.jar" />
+    </item>
+
+</items>

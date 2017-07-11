@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_video_thumb.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\ic_video_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_vidcontrol_play.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_vidcontrol_pause.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_pan_thumb.9.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\ic_pan_thumb.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_vidcontrol_reload.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\bg_vidcontrol.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\scrubber_knob.png",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\drawable-sw600dp\\scrubber_knob.png"
+    }
+]

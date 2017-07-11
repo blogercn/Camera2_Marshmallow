@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "com.android.camera2"
+        minSdkVersion 17
+        targetSdkVersion 23
+
+        ndk {
+            moduleName "libjni_tinyplanet"
+            moduleName "libjni_jpegutil"
+        }
+
+        sourceSets {
+            main {
+                res.srcDir "src/main/res_p"
+                res.srcDir "src/main/res_plus"
+            }
+        }
+        testApplicationId "com.android.camera.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v13:24.0.0-alpha2'
+    compile files('src/main/libs/jsr305-src.jar')
+    compile 'com.google.guava:guava:16.0.1'
+    compile files('src/main/libs/jsr305-maven-plugin-1.2.jar/jsr305-maven-plugin-1.2.jar')
+    compile files('src/main/libs/jsr305-1.3.9.jar')
+    compile files('src/main/libs/jsr305-maven-plugin-1.2.jar')
+    compile files('src/main/libs/android-ex-camera2-portability_intermediates.jar')
+    compile files('src/main/libs/glide-3.7.0.jar')
+    compile files('src/main/libs/xmp_toolkit_intermediates.jar')
+}

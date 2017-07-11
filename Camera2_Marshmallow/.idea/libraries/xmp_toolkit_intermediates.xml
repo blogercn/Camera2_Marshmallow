@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xmp_toolkit_intermediates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/libs/xmp_toolkit_intermediates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

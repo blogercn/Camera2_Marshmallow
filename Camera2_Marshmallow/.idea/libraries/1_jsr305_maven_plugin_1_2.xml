@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_jsr305-maven-plugin-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/libs/jsr305-maven-plugin-1.2.jar/jsr305-maven-plugin-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

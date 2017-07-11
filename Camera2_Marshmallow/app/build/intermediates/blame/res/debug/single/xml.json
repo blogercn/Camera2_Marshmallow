@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\xml\\camera_preferences_plus.xml",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res_plus\\xml\\camera_preferences_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\build\\intermediates\\res\\merged\\debug\\xml\\camera_preferences.xml",
+        "source": "C:\\Users\\jiazhiguo\\Downloads\\material-camera-master\\Camera2_Marshmallow\\app\\src\\main\\res\\xml\\camera_preferences.xml"
+    }
+]
